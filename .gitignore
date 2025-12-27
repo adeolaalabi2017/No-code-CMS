@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.next/
+.pnpm-store/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.production
+.env.development
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
